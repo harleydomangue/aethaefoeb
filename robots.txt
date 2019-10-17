@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://secaingoe.markrichardkeith.com/sitemap.xml
